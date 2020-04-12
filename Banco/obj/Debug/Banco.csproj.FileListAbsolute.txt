@@ -1,0 +1,12 @@
+C:\Users\UNICESAR-302\source\repos\G02-2020I\Banco\Banco\bin\Debug\Banco.exe.config
+C:\Users\UNICESAR-302\source\repos\G02-2020I\Banco\Banco\bin\Debug\Banco.exe
+C:\Users\UNICESAR-302\source\repos\G02-2020I\Banco\Banco\bin\Debug\Banco.pdb
+C:\Users\UNICESAR-302\source\repos\G02-2020I\Banco\Banco\obj\Debug\Banco.csprojAssemblyReference.cache
+C:\Users\UNICESAR-302\source\repos\G02-2020I\Banco\Banco\obj\Debug\Banco.exe
+C:\Users\UNICESAR-302\source\repos\G02-2020I\Banco\Banco\obj\Debug\Banco.pdb
+E:\G02-2020I\Banco\Banco\bin\Debug\Banco.exe.config
+E:\G02-2020I\Banco\Banco\bin\Debug\Banco.exe
+E:\G02-2020I\Banco\Banco\bin\Debug\Banco.pdb
+E:\G02-2020I\Banco\Banco\obj\Debug\Banco.csprojAssemblyReference.cache
+E:\G02-2020I\Banco\Banco\obj\Debug\Banco.exe
+E:\G02-2020I\Banco\Banco\obj\Debug\Banco.pdb
